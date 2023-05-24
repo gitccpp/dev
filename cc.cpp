@@ -2,7 +2,6 @@
 
 int main()
 {
-    std::cout << "aa" << std::endl;
+    std::cout << "hellow" << std::endl;
     return 0;
-    
 }
